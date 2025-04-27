@@ -144,7 +144,7 @@ Berikut contoh hasil inferensi model SVM terhadap beberapa data karyawan:
 
 ### **Feature Importance based on Permutation Importance**
 
-![Feature Importance Plot](https://github.com/Rendika7/Business-Dashboards-and-ML-Modeling-for-Human-Resource-Problem-Solving/blob/main/image/Feature%20Importance%20Plot.png?raw=true)
+![Feature Importance Plot](https://github.com/rmdlaska11/Employee-Attrition-Analysis/blob/main/Feature%20Importance.png)
 
 Berdasarkan analisis Permutation Feature Importance, faktor-faktor utama yang berkontribusi terhadap tingginya attrition rate di perusahaan Jaya Jaya Maju adalah:
 - OverTime: Karyawan yang sering bekerja lembur cenderung memiliki risiko resign lebih tinggi.
