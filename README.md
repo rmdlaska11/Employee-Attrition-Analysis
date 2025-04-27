@@ -81,7 +81,7 @@ Link Dashboard : [Attrition Analysis Dashboard](http://localhost:3000/public/das
 
 **Dashboard Preview**
 
-![HR Dashboard](sahrul57-dashboard.png)
+![HR Dashboard](https://github.com/rmdlaska11/Employee-Attrition-Analysis/blob/main/Dashboard.png)
 
 Dashboard ini bertujuan untuk membantu tim HR dalam memahami dan memonitor attrition (tingkat keluar masuknya karyawan) di perusahaan.
 Berikut fitur dan elemen yang terdapat dalam dashboard:
