@@ -124,7 +124,7 @@ Kinerja dari masing-masing model dievaluasi menggunakan beberapa metrik, yaitu a
 | NB                  | 0.7956    | 0.8332   | 0.7956   | 0.8094    |
 
 **Model Terbaik**  
-Berdasarkan hasil evaluasi, **Support Vector Machine (SVM)** dipilih sebagai model yang paling optimal. SVM berhasil mencatat akurasi tertinggi sebesar 85.56% serta presisi, recall, dan F1-Score yang lebih unggul dibandingkan model lainnya. Selain itu, model ini dinilai lebih efektif dalam mengidentifikasi faktor-faktor penting yang berkontribusi terhadap risiko karyawan keluar.
+Berdasarkan hasil evaluasi, **Support Vector Machine (SVM)** dipilih sebagai model yang paling optimal. SVM berhasil mencatat akurasi tertinggi sebesar 85.53% serta presisi, recall, dan F1-Score yang lebih unggul dibandingkan model lainnya. Selain itu, model ini dinilai lebih efektif dalam mengidentifikasi faktor-faktor penting yang berkontribusi terhadap risiko karyawan keluar.
 
 ### Hasil Prediksi Model
 Berikut contoh hasil inferensi model SVM terhadap beberapa data karyawan:
@@ -159,7 +159,7 @@ Sementara itu, faktor-faktor seperti Performance Rating, Education Field, dan St
 Melalui pembangunan model machine learning dan analisis business dashboard, diperoleh beberapa kesimpulan penting terkait faktor yang mempengaruhi attrition karyawan di Jaya Jaya Maju.
 
 **Dari sisi model machine learning:**  
-Support Vector Machine (SVM) terpilih sebagai model terbaik dengan akurasi mencapai **85.53%**. Model ini mampu mengenali pola-pola penting dari karakteristik karyawan yang berisiko keluar, terutama faktor **OverTime**, **Marital Status**, **Job Satisfaction** dan **Age** . Dengan model ini, perusahaan dapat secara proaktif mengidentifikasi dan mempertahankan karyawan berisiko.
+Support Vector Machine (SVM) terpilih sebagai model terbaik dengan akurasi mencapai **85.53**. Model ini mampu mengenali pola-pola penting dari karakteristik karyawan yang berisiko keluar, terutama faktor **OverTime**, **Marital Status**, **Job Satisfaction** dan **Age** . Dengan model ini, perusahaan dapat secara proaktif mengidentifikasi dan mempertahankan karyawan berisiko.
 
 **Berdasarkan analisis dashboard, ditemukan beberapa insight utama:**
 - **Departemen dengan *attrition* tertinggi:**
