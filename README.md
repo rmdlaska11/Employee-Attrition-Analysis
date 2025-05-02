@@ -77,8 +77,6 @@ Password: rahmad12
 
 ## Business Dashboard
 
-Link Dashboard : [Attrition Analysis Dashboard](http://localhost:3000/public/dashboard/fd440be8-ed47-4a23-8e04-8e253cab6805)
-
 **Dashboard Preview**
 
 ![HR Dashboard](https://github.com/rmdlaska11/Employee-Attrition-Analysis/blob/main/Dashboard.png)
